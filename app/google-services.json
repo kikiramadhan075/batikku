@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "800903028487",
+    "firebase_url": "https://batiku-a6cc6-default-rtdb.firebaseio.com",
+    "project_id": "batiku-a6cc6",
+    "storage_bucket": "batiku-a6cc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800903028487:android:ea76381c78968f2e3cefa2",
+        "android_client_info": {
+          "package_name": "com.crud.batiku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800903028487-f97phst675nev30rjnk40qc374lcct0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHWaPWZZmoOJnhtGRAQIHJWN1Kb5NDUHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800903028487-f97phst675nev30rjnk40qc374lcct0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800903028487:android:ae126059f30212fc3cefa2",
+        "android_client_info": {
+          "package_name": "com.maza.batikku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800903028487-785omrt4ia5nkbcb2bitdi4o39jal9uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maza.batikku",
+            "certificate_hash": "96bcd20c037be6cd67702c8d7a760fa8e5bac52d"
+          }
+        },
+        {
+          "client_id": "800903028487-f97phst675nev30rjnk40qc374lcct0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHWaPWZZmoOJnhtGRAQIHJWN1Kb5NDUHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800903028487-f97phst675nev30rjnk40qc374lcct0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

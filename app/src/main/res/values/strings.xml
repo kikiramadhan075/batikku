@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Batikku</string>
+    <string name="hello">Hello,</string>
+    <string name="john">John</string>
+    <string name="list_batik">Data Batik</string>
+    <string name="input_store">Data Toko</string>
+    <string name="pemilik">List Pegawai</string>
+    <string name="pegawai">Pegawai</string>
+    <array name="JenisKelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </array>
+</resources>
